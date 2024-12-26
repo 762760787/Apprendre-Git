@@ -1,0 +1,16 @@
+==== initialiser un projet ===
+git init
+
+=== git status pour voire le statut de progresion
+git status
+
+== git add nomFichier pour ajouter une ficchier(indexation)
+git add
+
+== get commit pour enregistrer dans l'historique
+git commit -m "message"
+
+========Recuperer une version de mon repository===============
+1) git log (récupérer le l'ensemble de mes commit)
+2) git checkout pour se positionner sur un commit
+git checkout numerodu commit
